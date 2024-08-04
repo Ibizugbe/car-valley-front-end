@@ -23,7 +23,7 @@
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-# 📖 [Car Valley App] <a name="about-project"></a>
+# 📖 Car Valley App <a name="about-project"></a>
 
 
 ## 🛠 Built With <a name="built-with"></a>
